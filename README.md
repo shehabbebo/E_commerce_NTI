@@ -1,7 +1,7 @@
-E-Commerce Flutter App 🚀
+# E-Commerce Flutter App 🚀
 A complete, production-ready Flutter e-commerce application powered by RESTful API integration. Designed for scalability, maintainability, and a smooth user shopping experience across platforms.
 
-📌 Project Overview
+# 📌 Project Overview
 This Flutter app is a full-fledged e-commerce solution that allows users to:
 
 Browse and search products across multiple categories.
@@ -20,7 +20,7 @@ Receive real-time feedback and notifications about orders and promotions.
 
 The app uses Bloc/Cubit for state management, ensuring a clean separation between UI and business logic, and is designed with scalability and responsiveness in mind.
 
-🔧 Technologies  &  Tools
+# 🔧 Technologies  &  Tools
 Technology         	Purpose
 Flutter & Dart	    Cross-platform app development
 Bloc / Cubit	      State management & business logic
@@ -29,7 +29,7 @@ flutter_svg	        Rendering scalable vector graphics
 JSON                Serialization	Data parsing & model conversion
 Git & GitHub	       Version control & collaboration
 
-lib/
+ lib/
  └── features/
      └── products/
          ├── data/
@@ -78,7 +78,7 @@ lib/
          └── ui/
              └── sliders_screen.dart
 
-📐 UI & UX Highlights
+# 📐 UI & UX Highlights
 Clean, modern design with intuitive navigation.
 
 Filter orders by status: Active, Completed, Canceled.
@@ -89,7 +89,7 @@ Custom reusable widgets for buttons, inputs, and cards.
 
 SVG icons for crisp and scalable graphics.
 
-🛠️ Development Notes
+# 🛠️ Development Notes
 Follow clean architecture by keeping UI, business logic, and data layers separate.
 
 Use model classes for JSON serialization/deserialization.
